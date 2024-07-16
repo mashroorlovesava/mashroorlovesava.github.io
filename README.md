@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
   <head>
     <link href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
     <script type="text/javascript" src="//use.typekit.net/adk4phw.js"></script>
@@ -104,4 +103,3 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="script.js"></script>
   </body>
-</html>
